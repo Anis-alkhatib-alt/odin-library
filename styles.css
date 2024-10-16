@@ -107,6 +107,9 @@ form > button {
   border-radius: 5px;
   transition: box-shadow 0.1s;
   cursor: pointer;
+  min-height: 60px;
+  font-size: 20px;
+  margin-top: 10px;
 }
 
 .bookCardHeader {
